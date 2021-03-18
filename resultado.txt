@@ -1,0 +1,29 @@
+
+Nome: arq_exemplo.txt - Tamanho: 70 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_exemplo.txt 
+Nome: arq_at.txt - Tamanho: 3698 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_at.txt 
+Nome: arq_infnet.txt - Tamanho: 19 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_infnet.txt 
+Numero de bytes decrescente: [3698, 70, 19] 
+Nome: arq_exemplo.txt - Tamanho: 70 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_exemplo.txt 
+Nome: arq_at.txt - Tamanho: 3698 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_at.txt 
+Nome: arq_infnet.txt - Tamanho: 55 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_infnet.txt 
+Numero de bytes decrescente: [3698, 70, 55] 
+Nome: arq_exemplo.txt - Tamanho: 70 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_exemplo.txt 
+Nome: arq_at.txt - Tamanho: 3698 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_at.txt 
+Nome: arq_infnet.txt - Tamanho: 31 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_infnet.txt 
+Numero de bytes decrescente: [3698, 70, 31] 
+Nome: arq_exemplo.txt - Tamanho: 70 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_exemplo.txt 
+Nome: arq_at.txt - Tamanho: 3698 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_at.txt 
+Nome: arq_infnet.txt - Tamanho: 31 
+Diretório usuário: C:\Users\Hithalo\PycharmProjects\aulasPython\arq_infnet.txt 
+Numero de bytes decrescente: [3698, 70, 31] 
